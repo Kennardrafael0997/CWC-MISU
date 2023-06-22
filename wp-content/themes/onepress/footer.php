@@ -50,7 +50,7 @@ if ( ! $hide_footer ) {
 				 *
 				 * @see onepress_footer_site_info
 				 */
-				//do_action( 'onepress_footer_site_info' );
+				do_action( 'onepress_footer_site_info' );
 				?>
 			</div>
 		</div>
